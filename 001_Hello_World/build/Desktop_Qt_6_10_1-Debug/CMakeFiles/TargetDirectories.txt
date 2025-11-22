@@ -1,0 +1,9 @@
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/001_Hello_World.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/edit_cache.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/list_install_components.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install/local.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install/strip.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/001_Hello_World_autogen_timestamp_deps.dir
+/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/001_Hello_World_autogen.dir

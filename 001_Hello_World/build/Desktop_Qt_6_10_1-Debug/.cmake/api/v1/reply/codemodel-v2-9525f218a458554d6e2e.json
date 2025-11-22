@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bdbe70aaf6dafd7d468e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "001_Hello_World",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "001_Hello_World::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_Hello_World-Debug-a7c094f9e06ea7179a9d.json",
+					"name" : "001_Hello_World",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "001_Hello_World_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_Hello_World_autogen-Debug-41d504e04cf1d563a38e.json",
+					"name" : "001_Hello_World_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "001_Hello_World_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_Hello_World_autogen_timestamp_deps-Debug-68f5901b080121931c59.json",
+					"name" : "001_Hello_World_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug",
+		"source" : "/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

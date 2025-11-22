@@ -1,0 +1,14 @@
+# ninja log v6
+8	122	1763775494647323453	001_Hello_World_autogen/timestamp	8f5d777f9c3a3fda
+8	122	1763775494647323453	001_Hello_World_autogen/mocs_compilation.cpp	8f5d777f9c3a3fda
+8	122	1763775494647323453	/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/001_Hello_World_autogen/timestamp	8f5d777f9c3a3fda
+8	122	1763775494647323453	/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/001_Hello_World_autogen/mocs_compilation.cpp	8f5d777f9c3a3fda
+126	204	1763775494666321929	CMakeFiles/001_Hello_World.dir/001_Hello_World_autogen/mocs_compilation.cpp.o	9e4e37f3df477698
+127	4295	1763775494667321850	CMakeFiles/001_Hello_World.dir/main.cpp.o	69e92568a5e1b510
+4302	4830	1763775498842987165	001_Hello_World	d5fb0a645ed86337
+28	73	1763776078780842430	001_Hello_World_autogen/timestamp	8f5d777f9c3a3fda
+28	73	1763776078780842430	001_Hello_World_autogen/mocs_compilation.cpp	8f5d777f9c3a3fda
+28	73	1763776078780842430	/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/001_Hello_World_autogen/timestamp	8f5d777f9c3a3fda
+28	73	1763776078780842430	/home/hanif/Desktop/qt_practice/QT_Projects/001_Hello_World/build/Desktop_Qt_6_10_1-Debug/001_Hello_World_autogen/mocs_compilation.cpp	8f5d777f9c3a3fda
+74	3980	1763776078826839188	CMakeFiles/001_Hello_World.dir/main.cpp.o	69e92568a5e1b510
+3981	4499	1763776082732563991	001_Hello_World	d5fb0a645ed86337
